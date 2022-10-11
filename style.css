@@ -1,0 +1,27 @@
+ul {
+  display: grid;
+  grid-template-columns: 200px 200px 200px;
+  gap: 20px 20px;
+  background-color: #2196f3;
+  padding: 30px;
+}
+
+li {
+  list-style-type: none;
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
+p {
+  font-size: 15px;
+}
+button {
+  background-color: red;
+  color: beige;
+  outline: none;
+}
+h3 {
+  font-size: 20px;
+}
